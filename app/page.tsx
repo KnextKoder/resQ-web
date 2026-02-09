@@ -127,7 +127,7 @@ export default function Home() {
             </p>
             <div className="flex flex-col gap-3">
               <Link
-                href="https://expo.dev/artifacts/eas/4kYUDAiqoepZxgeRNk3kpx.apk"
+                href="https://expo.dev/artifacts/eas/rd1ZKHJuMru7ssQBycqzho.apk"
                 target="_blank"
                 className="w-full px-8 py-4 rounded-2xl bg-black text-white font-bold text-center hover:bg-zinc-800 transition-all active:scale-[0.98]"
                 onClick={() => setShowDownloadModal(false)}
