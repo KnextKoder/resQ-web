@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "ResQ",
+  title: "resQ",
   description: "Safety at the speed of sound",
 };
 
