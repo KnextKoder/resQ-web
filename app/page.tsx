@@ -122,7 +122,7 @@ export default function Home() {
               <h3 className="text-2xl font-bold mb-3 text-zinc-900 tracking-tight">Testing Version</h3>
             </div>
             <p className="text-zinc-500 mb-8 leading-relaxed">
-              resQ is currently in private testing. This demo is not yet available on the Play Store or App Store.
+              resQ is currently not production ready. This app is not yet available on the Play Store or App Store.
               Continuing will download the direct APK for your Android device.
             </p>
             <div className="flex flex-col gap-3">
